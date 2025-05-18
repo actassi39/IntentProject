@@ -13,6 +13,9 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
  class MainActivity : AppCompatActivity(), View.OnClickListener {
+     //minggu 18-05-2025
+     //Rama Novaldy Pratama
+     //10122156
      private lateinit var txtResultValue: TextView
      private val resultLauncher = registerForActivityResult(
          ActivityResultContracts.StartActivityForResult()
